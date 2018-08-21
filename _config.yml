@@ -15,14 +15,14 @@
 # in the templates via {{ site.myvariable }}.
 title: Grahn
 email: jacob@grahn.io
-description: Musings of a DevOps engineer
+description: Ladder in a walled garden
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://grahn.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jacob_grahn
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-dinky
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
 
