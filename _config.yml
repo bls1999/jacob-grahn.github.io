@@ -22,7 +22,7 @@ github_username:  jacob_grahn
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes"
+theme: "minima"
 plugins:
   - jekyll-feed
 
