@@ -1,2 +1,1 @@
-# jacob-grahn.github.io
-Jacob Grahn's Blog
+Source for Jacob Grahn's personal blog at grahn.io
