@@ -18,7 +18,7 @@ email: jacob@grahn.io
 description: Ladder in a walled garden
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://grahn.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  jacob_grahn
+github_username:  jacob-grahn
 
 # Build settings
 markdown: kramdown
